@@ -28,12 +28,12 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/savvy-slang-decoder.git
+git clone https://github.com/hasinitarla/savvy-slang-decoder.git
 cd savvy-slang-decoder
 pip install -r requirements.txt
 
 ---
-replace the your API
+replace the API by creating yourself 
 ---
 Then run the app:streamlit run app.py
 
@@ -41,4 +41,4 @@ Then run the app:streamlit run app.py
 This project is licensed under the MIT License.
 
 🙋‍♂️ Author
-Your Name – @yourGitHubUsername
+Your Name – @hasinitarla
